@@ -1,16 +1,12 @@
-# p1
+# VibeWave
 
-A new Flutter project.
+VibeWave is a Flutter-based music player application that allows users to play and manage their local music with a modern neumorphic interface. It includes music playback controls, favorites management, song details, and background playback with a media notification.
+# Functionalities
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Music Playback:** Play and manage local audio files.
+- **Favorites:** Add and manage favorite songs.
+- **Song Details:** View information about selected songs.
+- **Background Playback:** Continue playing music when the app is in the background.
+- **Media Controls:** Control playback through the notification.
+- **Local Music Access:** Access music files stored on the device.
+- **Flutter Development:** Cross-platform mobile app development.
